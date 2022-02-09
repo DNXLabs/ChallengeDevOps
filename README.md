@@ -7,3 +7,5 @@
     Let's have some fun
 - ## [3. Second Challenge](./docs/2.second_challenge.md)
     Start decoupling
+- ## [4. Third Challenge](./docs/3.third_challenge.md)
+    Start autoscaling
