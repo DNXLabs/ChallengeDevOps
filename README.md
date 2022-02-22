@@ -9,3 +9,5 @@
     Start decoupling
 - ## [4. Third Challenge](./docs/3.third_challenge.md)
     Start autoscaling
+- ## [5. Fourth Challenge](./docs/4.fourth_challenge.md)
+    Start containerizing
