@@ -11,3 +11,5 @@
     Start autoscaling
 - ## [5. Fourth Challenge](./docs/4.fourth_challenge.md)
     Start containerizing
+- ## [6. Last Challenge](./docs/5.last_challenge.md)
+    Last Challenge

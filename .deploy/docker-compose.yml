@@ -1,0 +1,12 @@
+version: "3.2"
+
+services:
+  laravel:
+    build: ../
+    entrypoint: ""
+    env_file: ../.env
+    working_dir: /var/www/html
+    volumes:
+      - ../:/var/www/html
+    ports:
+     - 8080:80
