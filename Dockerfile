@@ -3,7 +3,7 @@ FROM php:7.4-apache
 RUN a2enmod rewrite
 
 RUN apt-get update -qq \
-  && apt-get install -y git libpq-dev \
+  && apt-get install -y git libpq-dev zip unzip \
   && apt-get clean autoclean \
   && apt-get autoremove -y
 
